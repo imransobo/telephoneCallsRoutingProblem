@@ -7,10 +7,10 @@ class NumberPrefixTrie:
 
     def insert(self, prefix, price):
         node = self.root
-        for char in prefix:
-            if char not in node.children:
-                node.children[char] = Node()
-            node = node.children[char]
+        for digit in prefix:
+            if digit not in node.children:
+                node.children[digit] = Node()
+            node = node.children[digit]
         node.price = price
 
     def search(self, number):
