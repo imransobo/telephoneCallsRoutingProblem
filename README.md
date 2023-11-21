@@ -1,4 +1,4 @@
-# Solution to the Telephone Calls Routing Problem
+# Telephone calls routing problem solution
 
 This is a solution for determining the cheapest telephone operator for a given phone number based on predefined pricing rules set by different operators.
 
