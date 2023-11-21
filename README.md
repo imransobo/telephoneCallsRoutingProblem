@@ -10,11 +10,3 @@ Node: Represents a node in the number prefix trie used for efficiently storing a
 NumberPrefixTrie: A trie data structure used by the telephone operator to store and search for telephone number prefixes along with their respective prices.
 
 TelephoneOperator: Represents a telephone operator entity that uses the number prefix trie to add offers and search for the cheapest price for a given number.
-
-
-
-
-
-
-# My resume
-[Resume Imran Sobo.pdf](https://github.com/imransobo/telephoneCallsRoutingProblem/files/13385996/Resume.Imran.Sobo.pdf)
